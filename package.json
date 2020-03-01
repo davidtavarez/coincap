@@ -1,6 +1,6 @@
 {
   "name": "@davidtavarez/coincap",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "description": "Return CoinCap asset information",
   "license": "MIT",
   "repository": "davidtavarez/coincap",
